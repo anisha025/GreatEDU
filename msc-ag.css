@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header-top{
+    background: linear-gradient(to left, #1f3450, #24486e, #255c8d, #1f72ae, #0089cf);
+}
+.container{
+    color: white;
+}
+.baneshwor{
+    padding: 5px;
+}
+.text{
+    font-size: 14px;
+}
+
+.icons{
+    text-align: right;
+    padding: 7px;
+}
+
+.phon-num{
+    padding-right: 15px;
+}
+.email{
+    padding-left: 5px;
+}
+.phon-num{
+    padding-left: 5px;
+}
+.icn{
+    border: 1px solid white;
+    display: inline-block;
+    padding: 4px;
+}
+.icon-fb{
+    background-color:#34558E;
+    margin: 5px;
+}
+.icn-twitter{
+    color: white;
+    background-color: skyblue;
+    margin: 5px;
+}
+.icn-linkdlin{
+    color: white;
+    background-color: rgb(6, 6, 133);
+    margin: 5px;
+}
+.icn-insta{
+    background-color: red;
+    margin: 5px;
+}
+.icn-youtube{
+    margin: 5px;
+    background-color:   #006666;
+}
+/* .nav-bar{
+    color:#2d4059;
+} */
+.dropdown:hover  .dropdown-menu {
+    display: block;
+  }
+  .dropdown-menu {
+    position: absolute;
+    background: linear-gradient(to left, #1f3450, #24486e, #255c8d, #1f72ae, #0089cf);
+    display: none;
+    width: 200px;
+  }
+  .dropdown-txt{
+    border-bottom: 1px solid white;
+    padding-left: 5px;
+    font-size: 14px;
+    display: block;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    color: white;
+  }
+  .dropdown-txt:hover{
+    color: white;
+    text-decoration: none;
+  }
+  .nav-container{
+    box-shadow: #1f3450;
+  }
+  .dropdown-txt:last-child{
+    border: none;
+  }
+.Institution{
+    text-decoration: none;
+    color: black;
+}
+.icn-home{
+    color: rgb(9, 66, 179);
+}
+.Institution:hover{
+    text-decoration: none;
+    color: black;
+}
+.icn-home:hover{
+    color: rgb(9, 66, 179);
+}
+
+.div-institute{
+    padding-top: 10px;
+}
+.nav-bar-container{
+    box-shadow: 2px 2px  #24486e
+}
+.farmer{
+    background-color: rgb(244, 235, 235);
+    margin-top: 20px;
+}
+.heading-ag{
+    color: blue;
+   
+}
+.year{
+    color: black;
+}
+.para-ag{
+    color: rgb(44, 42, 42);
+}
+.ag-details{
+    padding: 10px;
+}
+.img-farmer{
+    padding-top: 15px;
+}
+.rajiv-gandi{
+    color: blue;
+    padding-top: 10px;
+}
+.para-abroad{
+    color: black;
+}
+.course-offer{
+    color: blue;
+}
+ .course-text{
+    color: rgb(48, 46, 46);
+}
+.buttom{
+    border-radius: 25px;
+    color: white;
+}
+.buttom:hover{
+    color: white;
+}
+.every-course{
+    margin-top: 20px;
+}
+/* buttons */
+.buttons{
+    padding-top: 20px;
+}
+.course-btn{
+    background: linear-gradient(to left, #1f3450, #24486e, #255c8d, #1f72ae, #0089cf);
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 8px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+/* footer  */
+.top-footer{
+    background: linear-gradient(to left, #1f3450, #24486e, #255c8d, #1f72ae, #0089cf);
+    margin-top: 30px;
+    /* padding: 150px; */
+}
+.link-div{
+    padding-left: 8px;
+}
+.tag-a{
+    color: white;
+    /* text-decoration: none; */
+}
+.quick-link{
+    border-bottom: 2px solid white ;
+
+}
+.location-icn{
+    padding-left: 8px;
+}
+.contact-us{
+    border-bottom: 1px solid white ;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+.link{
+    padding-top: 8px;
+}
+.quick-link{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.top-footer{
+    padding: 30px;
+}
+.all-details{
+    padding: 20px;
+}
+.about-college{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    text-align: justify;
+    color: white;
+}
+.footer{
+    background-color: rgb(50, 48, 48);
+    padding: 10px;
+}
+.span-txt{
+    color: red;
+}
+.tag-a:hover{
+    color: white;
+    text-decoration: none;
+}
